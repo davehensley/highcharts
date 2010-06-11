@@ -1,0 +1,8 @@
+{
+    "description": "Highcharts JavaScript library, unmodified and up to date. Also includes Highmaps and Highstock.",
+    "homepage": "http://www.highcharts.com/",
+    "keywords": ["highcharts", "highmaps", "highsoft", "highstock", "javascript", "js"],
+    "license": "proprietary",
+    "name": "davehensley/highcharts",
+    "type": "library"
+}
